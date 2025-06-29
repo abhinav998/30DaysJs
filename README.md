@@ -1,2 +1,2 @@
 # 30DaysJs#
-# New content will be added# 
+# New content will be added shortly# 
